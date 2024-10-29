@@ -1,0 +1,2 @@
+# Hard Coded RC
+A hardcoded RC car is programmed directly from commands. Unlike autonomous cars, this one follows a specific sequence of movements, with each turn, acceleration, and stop timed down to the millisecond. It’s like giving the car a script to follow, showcasing how control over timing and direction can create a smooth, pre-planned drive. This project helped me win a number of regional competitions. 
